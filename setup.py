@@ -5,4 +5,5 @@ setup(
     name='gobble',
     packages=find_packages(),
     version='2.0.0',
+    zip_safe=False
 )
